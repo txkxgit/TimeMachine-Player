@@ -7,7 +7,7 @@
 	<key>CFBundleName</key>
 	<string>TimeMachine Player</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.3.6</string>
+	<string>1.4.0</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>2020 txkx</string>
 	<key>WindowState</key>
@@ -17,15 +17,15 @@
 		<key>bundlePositionOfDivider</key>
 		<real>956</real>
 		<key>dividerCollapsed</key>
-		<false/>
+		<true/>
 		<key>eventLogLevel</key>
 		<integer>2</integer>
 		<key>name</key>
 		<string>ScriptWindowState</string>
 		<key>positionOfDivider</key>
-		<real>636</real>
+		<real>633</real>
 		<key>savedFrame</key>
-		<string>66 73 1255 804 0 0 1440 877 </string>
+		<string>0 118 1255 801 0 0 1470 919 </string>
 		<key>selectedTab</key>
 		<string>log</string>
 	</dict>
